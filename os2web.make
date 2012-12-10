@@ -229,11 +229,11 @@ projects[link][version] = "1.0"
 projects[field_group][subdir] = "contrib"
 projects[field_group][version] = "1.1"
 ; Patch to remove notices in badly stored features. TODO: add issue on d.o
-projects[field_group][patch][] = "patches/field_group-1.patch"
+projects[field_group][patch][] = "https://raw.github.com/OS2web/os2web-deploy/develop/patches/field_group-1.patch"
 
 projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.6"
-projects[field_slideshow][patch][] = "patches/field_slideshow.patch"
+projects[field_slideshow][patch][] = "https://raw.github.com/OS2web/os2web-deploy/develop/patches/field_slideshow.patch"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "1.0"
