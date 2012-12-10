@@ -7,3 +7,8 @@
 /themes
 
 /nbproject
+site/.gitignore
+
+# Ignore build template results
+/site
+/translations
